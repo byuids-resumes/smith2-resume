@@ -10,7 +10,7 @@ Computer Science Major at BYU - Idaho.
 | <a href="https://github.com/byuids-resumes/smith2-resume/blob/master/resumeDraftOne.md">Data Science Program</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+<!-- https://www.monique.tech/the-art-of-markdown This has been completed-->
 
 ----
 
