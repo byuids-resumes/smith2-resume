@@ -47,8 +47,6 @@ Experience
 Skills
 ----------------------------------------
 
-Skills
-
 * 96 Credits of Computer Science Science courses taken at Brigham Young University - Idaho
 
 * Public Speaking - Spoken to 100+ people audiences in church congregations and Scouts
