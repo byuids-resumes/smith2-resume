@@ -6,8 +6,8 @@ title: Jeffrey Smith's Resume
 Computer Science Major at BYU - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="jeffreydsmith.c@gmail.com">jeffreydsmith.c@gmail.com</a>
+| <a href="https://github.com/byuids-resumes/smith2-resume/blob/master/resumeDraftOne.md">Data Science Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -21,18 +21,18 @@ Computer Science Major at BYU - Idaho.
 Education
 ---------
 
-2021 - expected graduation date: (2023)
+2021 - Expected 2023
 :   **Bachelors, Computer Science**; Brigham Young University - Idaho
 
 2019-2021
-:   **Associates in arts Degree**; Florida State College of Jacksonville
+:   **Associate of Arts Degree**; Florida State College of Jacksonville
 
 Experience
 ----------
 
 **IT Intern - Kerecis**
 
-* Managed product licenses for company employees including: office, zoom, and adobe
+* Managed product licenses for company employees including: Office, Zoom, and Adobe
 
 * Strategically utilized spreadsheets to organize access control groups and company data entry
 
@@ -47,22 +47,22 @@ Experience
 Skills
 ----------------------------------------
 
-Skills
+**Abilities**
 
-* 96 Credits of Computer Science Science courses taken at Brigham Young University - Idaho
+* 96 Credits of Computer Science courses taken at Brigham Young University - Idaho
 
-* Public Speaking - Spoken to 100+ people audiences in church congregations and Scouts
+* Public Speaking - Spoken to audiences of 100+ people in church congregations and Scouts
 
 * Technical Experience: Microsoft Office Suite (Word, PowerPoint, and Excel). Tableau Experience
 
 * Strong proficiency in Microsoft Office including PowerPoint, Excel, and Word
 
-* Basic proficiency in C#, java, JavaScript, python, and HTML
+* Basic proficiency in C#, java, JavaScript, Python, and HTML
 
-Accomplishments
+**Accomplishments**
 
-* Eagle Scout- Boy Scouts of America
+* Eagle Scout - Boy Scouts of America
 
-* Black Belt- Zone Martial Arts
+* Black Belt - Zone Martial Arts
 
-* State competitor- Won Piano Duet National Federation of Music Clubs
+* State competitor - Won Piano Duet National Federation of Music Clubs
