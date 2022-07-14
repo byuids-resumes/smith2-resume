@@ -1,89 +1,68 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Jeffrey Smith's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jeffrey Smith
+Computer Science Major at BYU - Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+----
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+>  (904) 524-2953 | jeffreydsmith.c@gmail.com | linkedin.com/in/jeffrey-smith-240b88213 
 
-- Full academic scholarship with 4.0 GPA
+----
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+Education
+---------
 
-- 4.0 Major GPA
+2021 - expected graduation date: (2023)
+:   **Bachelors, Computer Science**; Brigham Young University - Idaho
 
+2019-2021
+:   **Associates in arts Degree**; Florida State College of Jacksonville
 
-## Related Experience
+Experience
+----------
 
-### Internships
+**IT Intern - Kerecis**
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+* Managed product licenses for company employees including: office, zoom, and adobe
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+* Strategically utilized spreadsheets to organize access control groups and company data entry
 
-### Data Science Lead
+* Setup computers on/off domain computers for new hires
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+* Managed access control in HCL notes and created and maintained databases/views
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+**Rapid Financial Solutions February 2022 - Present A-Team Support**
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+* Provided level 1 support for credit cards (activation, pin change, bal, transaction history)
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+Skills
+----------------------------------------
 
-### Data Science Consulting Team
+Skills
 
-`January 2027 - April 2027`
-__Imagine Learning__
+* 96 Credits of Computer Science Science courses taken at Brigham Young University - Idaho
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+* Public Speaking - Spoken to 100+ people audiences in church congregations and Scouts
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+* Technical Experience: Microsoft Office Suite (Word, PowerPoint, and Excel). Tableau Experience
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+* Strong proficiency in Microsoft Office including PowerPoint, Excel, and Word
 
+* Basic proficiency in C#, java, JavaScript, python, and HTML
 
-## Service and Work History
+Accomplishments
 
-`2025-2027`
-__Math Tutor__, LDSBC
+* Eagle Scout- Boy Scouts of America
 
+* Black Belt- Zone Martial Arts
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+* State competitor- Won Piano Duet National Federation of Music Clubs
